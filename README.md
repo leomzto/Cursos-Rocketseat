@@ -5,12 +5,9 @@ Este repositório reúne anotações, projetos e práticas desenvolvidas durante
 ## 📚 Trilha de Aprendizado
 
 - [ ] Fundamentos de programação
+- [ ] Lógica de programação
 - [ ] C# com .NET Core
-- [ ] Node.js
-- [ ] ReactJS
-- [ ] TypeScript
-- [ ] API RESTful
-- [ ] Testes automatizados
+
 
 ## 📁 Estrutura do Repositório
 Cursos-Rocketseat/
