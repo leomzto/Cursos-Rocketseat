@@ -26,7 +26,7 @@ Cada pasta contém materiais como:
 
 ## 🧠 Objetivo
 
-Registrar minha jornada de aprendizado com os cursos da Rocketseat, aplicando os conhecimentos na prática e evoluindo como desenvolvedor full stack.
+Registrar minha jornada de aprendizado com os cursos da Rocketseat, aplicando os conhecimentos na prática e evoluindo como desenvolvedor.
 
 ## 🛠️ Tecnologias e Ferramentas
 
