@@ -10,11 +10,11 @@ Este repositório reúne anotações, projetos e práticas desenvolvidas durante
 
 
 ## 📁 Estrutura do Repositório
-Cursos-Rocketseat/
-├── Formacao C#/
-├──
-├──
-├──  
+Cursos-Rocketseat/<br>
+├── Formacao C#/<br>
+├──<br>
+├──<br>
+├──<br>
 
 
 Cada pasta contém materiais como:
