@@ -13,7 +13,7 @@ Este repositório reúne anotações, projetos e práticas desenvolvidas durante
 ## 📁 Estrutura do Repositório
 Cursos-Rocketseat/<br>
 ├── Formacao C#/<br>
-├── Formação Python<br>
+├── Formação Python/<br>
 ├──<br>
 ├──<br>
 
