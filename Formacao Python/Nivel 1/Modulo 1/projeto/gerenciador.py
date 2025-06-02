@@ -41,7 +41,7 @@ def deletar_completas(tarefas):
 tarefas = []
 while True:
     system('cls')
-    print('Menu de Gerenciador de Lista de tarefas:')
+    print('>> Menu de Gerenciador de Lista de tarefas:')
     print('1. Adicionar tarefas')
     print('2. Ver tarefas')
     print('3. Atualizar Tarefa')
