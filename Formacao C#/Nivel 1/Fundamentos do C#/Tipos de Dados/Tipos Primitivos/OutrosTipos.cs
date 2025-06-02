@@ -32,14 +32,12 @@ namespace Tipos_Primitivos
             // object variavel = "nome, numero, qualquer coisa";
 
             // null:
-            int idade = 18; // ou var idade = 18;
+            //var idade = 18; // ou var idade = 18;
             int? idd = null; // caso receba um valor, vai ser tipo inteiro /// nao pode usar var?, pois null nao identifica tipo ///
             bool informou_idade = idd.HasValue; // verifica se tem valor, caso possui valor (has value) = TRUE, se null = FALSE, has no value
-            // se enformou idade:
-            int idade_informada = idd.Value; // informa o valor informado
-
+                                                // se enformou idade:
+                                                // idd.Value; // informa o valor informado
             Console.WriteLine($"informou idade: {informou_idade}");
-            Console.WriteLine($"idade informada: {idade_informada}");
 
         }
     }
