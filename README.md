@@ -9,7 +9,6 @@ Este repositório reúne anotações, projetos e práticas desenvolvidas durante
 - [ ] C# com .NET Core
 - [ ] Python com Flask
 
-
 ## 📁 Estrutura do Repositório
 Cursos-Rocketseat/<br>
 ├── Formacao C#/<br>
